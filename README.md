@@ -1,13 +1,29 @@
-<<<<<<< HEAD
-# lejhro_webpage_clone
-lehjro
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 46a654c (First Commit)
+
+
+### Prerequisites
+
+What software and dependencies does the user need to install before running your project?
+
+- Node.js
+- npm or yarn
+
+### Installation
+
+Follow the given steps
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-project.git
+
+# Navigate to the project directory
+cd your-project
+
+# Install dependencies
+npm install
+# or
+yarn install
