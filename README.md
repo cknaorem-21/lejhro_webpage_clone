@@ -18,10 +18,10 @@ Follow the given steps
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/cknaorem-21/lejhro_webpage_clone.git
 
 # Navigate to the project directory
-cd your-project
+cd lejhro_webpage_clone
 
 # Install dependencies
 npm install
