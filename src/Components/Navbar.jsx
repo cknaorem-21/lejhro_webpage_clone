@@ -19,7 +19,7 @@ const Navbar = () => {
 
   return (
     <>
-      <div className="relative w-screen">
+      <div className="relative">
         {sidenavActive ? (
           <Sidenav
             sidenavActive={sidenavActive}
