@@ -4,18 +4,18 @@ const IndexPage = () => {
   return (
     <>
         {/* Blogs */}
-        <div className="flex justify-center items-start bg-[#d6932c] text-white h-[20vh]">
-            <div className="w-[75%]">
-                <div className="text-[40px] font-medium mt-4">Blogs</div>
+        <div className="flex justify-center items-start bg-[#d6932c] text-white h-[12vh] md:h-[16vh] lg:h-[20vh]">
+            <div className="w-[90%] md:w-[85%] lg:w-[75%]">
+                <div className="text-[30px] md:text-[35px] lg:text-[40px] font-medium mt-8 md:mt-9 lg:mt-10">Blogs</div>
             </div>
         </div>
 
         {/* Main body */}
         <div className="flex justify-center bg-[#f4f4f4]">
-            <div className="bg-[#fdfdfd] w-[75%] rounded-[50px] p-[3rem] mt-[3rem] mb-[3rem]">
-                <h1 className="text-[30px] font-bold">Data Analysis: Everything You Need to Know</h1>
+            <div className="bg-[#fdfdfd] w-[90%] md:w-[85%] lg:w-[75%] rounded-[50px] p-[2rem] lg:p-[3rem] mt-[3rem] mb-[3rem]">
+                <h1 className="text-[22px] sm:text[24px] md:text-[26px] lg:text-[30px] font-bold">Data Analysis: Everything You Need to Know</h1>
                 <br/>
-                <blockquote className="text-[20px] font-bold">
+                <blockquote className="text-[17px] sm:text-[20px] md:text-[25px] lg:text-[20px] font-bold">
                     <p>
                         Without big data analytics, companies are blind and deaf, wandering out onto the web like deer on a freeway.
                     </p>
@@ -36,7 +36,7 @@ const IndexPage = () => {
                     This strategy is common sense, and it applies to personal life as well as business. No one makes important decisions without first finding out what’s at stake, the pros and cons, and the possible outcomes. Similarly, no company that wants to succeed should make decisions based on bad data. Organisations need information; they need data. This is where data analysis enters the picture.
                 </p>
                 <br />
-                <h2 className="text-[20px] font-bold">What is data analysis?</h2>
+                <h2 className="text-[17px] sm:text-[20px] md:text-[25px] lg:text-[20px] font-bold">What is data analysis?</h2>
                 <br />
                 <p>
                     Data analysis is defined as a process of cleaning, transforming, and modelling data to discover useful information for business decision-making. The purpose of Data Analysis is to extract useful information from data and take the decision based upon the data analysis.
@@ -50,7 +50,7 @@ const IndexPage = () => {
                     The information discovered can help aid the company’s or organisation’s growth. Decision-makers will be able to come to an actionable conclusion and make the right business decisions.
                 </p>
                 <br />
-                <h2 className="text-[20px] font-bold">Types of Data Analysis:</h2>
+                <h2 className="text-[17px] sm:text-[20px] md:text-[25px] lg:text-[20px] font-bold">Types of Data Analysis:</h2>
                 <br />
                 <h3 className="text[17px] font-bold">Text Analysis</h3>
                 <br />
@@ -100,7 +100,7 @@ const IndexPage = () => {
 
 
 
-                <h2 className="text-[20px] font-bold">Data Analysis Process</h2>
+                <h2 className="text-[17px] sm:text-[20px] md:text-[25px] lg:text-[20px] font-bold">Data Analysis Process</h2>
                 <br />
                 <p>
                     The Data Analysis Process is gathering information by using a proper application or tool which allows you to explore the data and find a pattern in it.
